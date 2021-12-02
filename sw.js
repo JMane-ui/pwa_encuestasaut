@@ -8,7 +8,7 @@ const INMUTABLE_CACHE = 'inmutable-v1';
 const APP_SHELL = [
     // '/',
     //'index.html',
-    './',
+    './index.html',
     './css/style.css',
     './js/app.js',
     './js/sw-utils.js',
