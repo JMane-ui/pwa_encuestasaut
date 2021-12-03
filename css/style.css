@@ -1,8 +1,8 @@
 @import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.1/font/bootstrap-icons.css");
 
 :root {
-    --green: #7c942c !important;
-    --blue: #24345c !important;
+    --green: #7c942c;
+    --blue: #24345c;
 }
 
 .btn-green {
@@ -36,7 +36,7 @@
 
 .btn-green:hover{
     overflow: visible;
-    color: #fefefe !important;
+    color: #fefefe;
 }
 
 .btn-green:hover .arrow{
@@ -155,8 +155,6 @@ button {
   }
   
   #comment-list li .toggle {
-    display: flex;
-    justify-content: space-start;
     text-align: center;
     width: 40px;
     /* auto, since non-WebKit browsers doesn't support input styling */
